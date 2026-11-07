@@ -25,6 +25,9 @@
 - [Top HVAC Contractor Fl in Clearwater | Mark Brothers](https://local-business-guides.github.io/mark-brothers-hvac-clearwater/top-hvac-contractor-fl-in-clearwater/): Looking for a top HVAC contractor in Clearwater, FL? Get help with home and commercial heating and cooling. Call Mark Brothers HVAC today for home comfort.
 - [Best HVAC Contractor Fl Clearwater | Mark Brothers HVAC](https://local-business-guides.github.io/mark-brothers-hvac-clearwater/best-hvac-contractor-fl-clearwater/): Choosing the best HVAC contractor in Clearwater, FL? Get heating and cooling guidance for your property. Call Mark Brothers HVAC to discuss your needs.
 
+## Newsroom
+- [Mark Brothers HVAC Publishes Guide to HVAC Contractor Clearwater FL](https://local-business-guides.github.io/mark-brothers-hvac-clearwater/news/2026-11-07-mark-brothers-hvac-publishes-guide-to-hvac/): Mark Brothers HVAC has published a guide, a YouTube video and a podcast episode about HVAC Contractor Clearwater FL. (2026-11-07)
+
 ## Pages
 - [HVAC Contractor in Clearwater, Florida](https://local-business-guides.github.io/mark-brothers-hvac-clearwater/): Mark Brothers HVAC handles residential and commercial heating and cooling needs for Clearwater homes and businesses. Call +1727-610-7300.
 - [About Mark Brothers HVAC](https://local-business-guides.github.io/mark-brothers-hvac-clearwater/about/): About Mark Brothers HVAC, Clearwater.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/mark-brothers-hvac-clearwater/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/mark-brothers-hvac-clearwater/news/rss.xml)
 - [Main resource site](https://mark-brothers-hvac-clearwater.localbusinesses1.chatgpt.site)
